@@ -4,7 +4,8 @@
 
 Используемые библиотеки:
 - NestJS - https://docs.nestjs.com/
-- nestjs-telegraf - https://www.npmjs.com/package/nestjs-telegraf
+  - пример бота https://github.com/hypeertech/nestjs-telegraf/tree/main/sample/01-complete-app
+- nestjs-telegraf - https://github.com/hypeertech/nestjs-telegraf
 - telegrafJS - https://telegraf.js.org/
 
 Что делать для получения токена?
